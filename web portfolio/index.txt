@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+<meta charset=“utf-8”>
+<title>Meghan’s-Web-Portfolio</title>
+<link rel=“stylesheet” href=“styles.css”>
+</head>
+<body>
+ 
+<h1>Web-Portfolio</hl>
+ 
+<div id=“box-one”>
+<p>Previous Research</p>
+</div>
+ 
+<div id=“box-two”>
+<p>Lab Strengths</p>
+</div>
+ 
+</body>
+<html>
